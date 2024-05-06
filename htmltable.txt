@@ -1,0 +1,33 @@
+<html>
+<style>
+table, th, td {
+  border:1px solid green;
+}
+</style>
+<body>
+
+<h2>A basic HTML table</h2>
+
+<table style="width:100%">
+  <tr>
+    <th>A</th>
+    <th>B</th>
+    <th>C</th>
+  </tr>
+  <tr>
+    <td>A</td>
+    <td>M</td>
+    <td>G</td>
+  </tr>
+  <tr>
+    <td>C</td>
+    <td>F</td>
+    <td>M</td>
+  </tr>
+</table>
+
+<p>waste of time         </p>
+
+</body>
+</html>
+
